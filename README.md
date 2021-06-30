@@ -20,6 +20,7 @@
 - Built with [Baileys](https://github.com/adiwajshing/baileys) (The Best WhatsApp Library Out There) 
 
 ## 💻 Deploy/Hosting Guide
+- How to deploy bot [YouTube](https://youtu.be/tsCCmxeklHw)
 - Section Moved to [Void-Guides](https://github.com/Synthesized-Infinity/Void-Guides)
 ## 🍥 Features of the Repo
 - To view all features, click here➡️[Void_featuresList.md](https://github.com/PrajjwalDatir/Kaoi/blob/main/Features.md)
